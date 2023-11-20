@@ -7,7 +7,7 @@ Users can explore resources and information related to their chosen condition an
 However, it's crucial to emphasize that Colloquium should not replace professional mental health advice, and users should seek help from qualified experts when needed.
 This project is completely made with C and run on CLI, As part of my future plans, I intend to develop an interactive user interface for this project, enhancing its usability and user engagement.
 
-##Installation
+## Installation
 1. Clone the repository
 ```bash
 git clone https://github.com/AkshayPrasad25/Hi_Mind.git
